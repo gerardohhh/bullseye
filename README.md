@@ -8,7 +8,7 @@ This app was built over a five-week period in collaboration with **Isabella Teng
 
 Here's a walkthrough of the app:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/gerardohhh/bullseye/blob/master/screencap.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
